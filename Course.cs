@@ -2,9 +2,14 @@
 public class Course
 {   
     // Add your code here
-    
+    public int MaxStudents = 25;
+    public int PerfectScore = 100;
+
     public int CourseLength(){
         // Add your code here
-        return 0;
+       int courseLength = 20;
+
+
+        return courseLength;
     }
 }
